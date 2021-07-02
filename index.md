@@ -1,7 +1,7 @@
 # FREE OFFICE HOURS FOR AUSTRALIAN TECHIES
 A lot is happening in 2021.
 
-There are a lot of roles technology roles available.
+There are a lot of technology roles available.
 
 Salaries and Compensation are changing rapidly.
 
