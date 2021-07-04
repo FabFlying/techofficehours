@@ -1,4 +1,3 @@
-
 # FREE OFFICE HOURS FOR AUSTRALIAN TECHIES
 A lot is happening in 2021.
 
