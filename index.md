@@ -31,4 +31,4 @@ This is a free, independant service.
 We are not selling roles, or hiring through this.
 
 ## GET IN CONTACT
-If you'd like to reach out for a conversation please contact <a href="mailto:hello@techofficehours.com.au">hello@techofficehours.com.au</a>
+If you'd like to reach out for a conversation please contact hello@techofficehours.com.au
