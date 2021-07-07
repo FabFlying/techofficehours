@@ -26,7 +26,7 @@ This service is intended to help individuals with their technology careers.
 
 We can assist individuals with at least a couple of years of professional experience in technology.
 
-This is a free, independant service.
+This is a free, independent service.
 
 We are not selling roles, or hiring through this.
 
