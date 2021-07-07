@@ -1,7 +1,7 @@
 
 # FREE OFFICE HOURS FOR AUSTRALIAN TECHIES
 
-### EMAIL US AT hello@techofficehours.com.au
+### EMAIL US hello@techofficehours.com.au
 
 A lot is happening in 2021.
 
